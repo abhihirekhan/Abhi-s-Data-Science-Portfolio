@@ -9,9 +9,9 @@ Please contact me on [Linkedin](https://in.linkedin.com/in/abhijeet-hirekhan-159
 
 # Projects #
 
-## [1st Kernal EDA on  Census of India 2011](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/1st%20Kernal%20EDA%20on%20%20Census%20of%20India%202011) ##
+### [1st Kernal EDA on  Census of India 2011](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/1st%20Kernal%20EDA%20on%20%20Census%20of%20India%202011) ###
 
-## [A geographical analysis on China's Wuhan Coronavirus](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/A%20geographical%20analysis%20on%20China's%20Wuhan%20Coronavirus) ##
+### [A geographical analysis on China's Wuhan Coronavirus](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/A%20geographical%20analysis%20on%20China's%20Wuhan%20Coronavirus) ###
 
 ## [Airbnb Data - New York City Complete Analysis](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Airbnb%20Data%20-%20New%20York%20City%20Complete%20Analysis) ##
 
