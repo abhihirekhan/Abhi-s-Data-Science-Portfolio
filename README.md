@@ -7,7 +7,7 @@ The projects are either written in Python (Jupyter Notebook) or (kaggle kernel)
 Please contact me on [Linkedin](https://in.linkedin.com/in/abhijeet-hirekhan-15903a132)   or   [Facebook](https://www.facebook.com/abhijeet.hirekhan) if you are looking to hire a data scientist.
  
 
-## Projects ##
+# Projects #
 
 ### [1st Kernal EDA on  Census of India 2011](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/1st%20Kernal%20EDA%20on%20%20Census%20of%20India%202011) ###
 
