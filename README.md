@@ -19,7 +19,7 @@ Please contact me on [Linkedin](https://in.linkedin.com/in/abhijeet-hirekhan-159
 
 ### [Analysis of Rainfall in  India](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Analysis%20of%20Rainfall%20in%20%20India) ###
 
-### [Analysis on NSE India's stocks (Indices)](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Analysis%20on%20NSE%20India's%20stocks%20(Indices) ###
+### [Analysis on NSE India's stocks (Indices)](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Analysis%20on%20NSE%20India's%20stocks%20(Indices)) ###
 
 ### [Analysis onCorona Cases in India](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Analysis%20onCorona%20Cases%20in%20India) ###
 
