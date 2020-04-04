@@ -20,7 +20,7 @@ Please contact me on [Linkedin](https://in.linkedin.com/in/abhijeet-hirekhan-159
 * Monte Carlos simulation used to simulate the winner of the election.
 * Compared simulated results with exchange rates fluctuations to see if market is efficient.
 * **Keywords**(Python, Linear Regression, Monte Carlos Simulation)
-<img src="FX_Analysis_During_US_Election/results.png" width="500">
+<img src="1st Kernal EDA on  Census of India 2011/statsimage.png" width="500">
 
 ---
 
