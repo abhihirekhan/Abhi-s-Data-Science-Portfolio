@@ -270,7 +270,7 @@ Judging (J) – Perceiving (P)
 
 simple web-scrapping with python and beautifulsoup
 * **Keywords**(Python,Pandas,Numpy,Matplotlib.pyplot,seaborn)
-<img src="FX_Analysis_During_US_Election/results.png" width="500">
+<img src="download.jpg" width="500">
 
 ---
 
