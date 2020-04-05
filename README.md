@@ -86,8 +86,8 @@ With the news coming in that the World Health Organization has declared the nove
 * Analysis on number of Indian Candidates for General Election 2019 
 * With over 600 Million voters voting for 8500+ candidates across 543 constituencies, the general elections in the world's largest democracy are a potential goldmine of data. While there are existing separate datasets about the votes each candidate received and the personal information of each candidate, there was no comprehensive dataset that included both these information
 * **Keywords**(Python, elections candidates,india)
-<img src="FCandidates info- 2019 elections EDA/__results___16_0.png" width="500">
-
+<img src="Candidates info- 2019 elections EDA/__results___16_0.png" width="500">
+<img src="Candidates info- 2019 elections EDA/images.jpg" width="500">
 ---
 
 ### [Corona Virus Dataset Exploratory Data Analysis](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Corona%20Virus%20Dataset%20Exploratory%20Data%20Analysis) 
