@@ -30,7 +30,7 @@ Please contact me on [Linkedin](https://in.linkedin.com/in/abhijeet-hirekhan-159
 With the news coming in that the World Health Organization has declared the novel coronavirus outbreak a public health emergency, it has increased the general fear among the public. A lot of countires have heightened their measures to fight with this virus with the condition in China still senitive..More than 20 countries and territories outside of mainland China have confirmed cases of the virus -- spanning Asia, Europe, North America and the Middle East -- as India, Italy and the Philippines reported their first cases on Thursday
 * This specific kernel deals with how it has spread from wuhan acroos the world
 * **Keywords**(Python, China,wuhan,covid-19,)
-<img src="FA geographical analysis on China's Wuhan Coronavirus/nkexz1H.png" width="500">
+<img src="A geographical analysis on China's Wuhan Coronavirus/nkexz1H.png" width="500">
 <img src="A geographical analysis on China's Wuhan Coronavirus/result.png" width="500">
 
 ---
