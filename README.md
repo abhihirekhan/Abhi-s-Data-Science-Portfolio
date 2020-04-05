@@ -6,7 +6,7 @@ The projects are either written in Python (Jupyter Notebook) or (kaggle kernel)
 
 Tools
 
-Python: NumPy, Pandas, Seaborn, Matplotlib,Plotly
+Python: NumPy, Pandas, Seaborn, Matplotlib,Plotly ;
 Machine Learning: scikit-learn,scipy, TensorFlow, keras
 
 Please contact me on [Linkedin](https://in.linkedin.com/in/abhijeet-hirekhan-15903a132)   or   [Facebook](https://www.facebook.com/abhijeet.hirekhan) or [Twitter](https://twitter.com/kidwiththeheat) if you are looking to hire a data scientist.
