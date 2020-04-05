@@ -112,8 +112,7 @@ Most of the patient with age greater than 55 couldn't survived from this virus.
 test.csv - the dates to predict; there is a week of overlap with the training data for the initial Public leaderboard. Once submissions are paused, the Public leaderboard will update based on last 28 days of predicted data.
 submission.csv - a sample submission in the correct format; again, predictions should be cumulative
 * This evaluation data for this competition comes from John Hopkins CSSE,
-* **Keywords**(Python, Simple EDA,COVID-19)
-<img src="FX_Analysis_During_US_Election/results.png" width="500">
+* **Keywords**(Python, Simple EDA,COVID-19) 
 
 ---
 
