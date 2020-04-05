@@ -32,6 +32,7 @@ With the news coming in that the World Health Organization has declared the nove
 * **Keywords**(Python, China,wuhan,covid-19,)
 <img src="FA geographical analysis on China's Wuhan Coronavirus/nkexz1H.png" width="500">
 <img src="A geographical analysis on China's Wuhan Coronavirus/result.png" width="500">
+
 ---
 
 ### [Airbnb Data - New York City Complete Analysis](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Airbnb%20Data%20-%20New%20York%20City%20Complete%20Analysis) 
@@ -41,8 +42,8 @@ With the news coming in that the World Health Organization has declared the nove
 * **Keywords**(Python,   Analysis of Airbnb ,  New York City)
 <img src="Airbnb Data - New York City Complete Analysis/__results__.png" width="500">
 <img src="Airbnb Data - New York City Complete Analysis/_result.png" width="500">
----
 
+---
 
 ### [Analysis Coronavirus](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Analysis%20Coronavirus) 
 
@@ -88,6 +89,7 @@ With the news coming in that the World Health Organization has declared the nove
 * **Keywords**(Python, elections candidates,india)
 <img src="Candidates info- 2019 elections EDA/__results___16_0.png" width="500">
 <img src="Candidates info- 2019 elections EDA/images.jpg" width="500">
+
 ---
 
 ### [Corona Virus Dataset Exploratory Data Analysis](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Corona%20Virus%20Dataset%20Exploratory%20Data%20Analysis) 
@@ -165,6 +167,7 @@ We have 5 different files in the dataset:
 * **Keywords**(Python,Pandas,Numpy,Matplotlib.pyplot,scipy,scipy.stats,sklearn.linear_model,sklearn.preprocessing,sklearn.preprocessing)
 <img src="EDA and Data Cleaning for Beginner/__results___80_0.png" width="500">
 <img src="EDA and Data Cleaning for Beginner/__results___91_0.png" width="500">
+
 ---
 
 ### [Exploratory Analysis of India's Air Quality based on Tableau](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Exploratory%20Analysis%20of%20India's%20%20Air%20Quality%20based%20on%20Tableau) 
@@ -218,6 +221,7 @@ How much funds does startups generally get in India?
 * **Keywords**(Python,Pandas,Numpy,Matplotlib.pyplot)
 <img src="Indians Suicide Report Exploratory Data Analysis/__results___13_0.png" width="500">
 <img src="Indians Suicide Report Exploratory Data Analysis/__results___8_0.png" width="500">
+
 ---
 
 ### [Most followed 100 personalities on Twitter in 2019 Exploratory Data Analysis](https://github.com/abhihirekhan/Abhi-s-Data-Science-Portfolio/tree/master/Most%20followed%20100%20%20personalities%20on%20Twitter%20in%202019%20%20Exploratory%20Data%20Analysis) 
