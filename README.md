@@ -1,7 +1,7 @@
 # Abhi-s-Data-Science-Portfolio
 A list of data science projects completed  by me for academic, self learning, and creative purposes
 Presented in the form of iPython Notebooks
-To know more check out my [Medium profile](https://medium.com/@abhijeet.herokhan)
+To know more check out my [Medium profile](https://medium.com/@abhijeet.herokhan/abhis-data-science-portfolio-2e6014635e08)
 The projects are either written in Python (Jupyter Notebook) or (kaggle kernel)
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at abhijeet.herokhan@gmail.com
 
